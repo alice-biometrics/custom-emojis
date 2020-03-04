@@ -48,4 +48,26 @@ Use
 
 ## ALiCE 
 
+### ALiCE Color
+
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color.png" width="200">
+
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color.png" width="200">
+```
+
+### ALiCE Color (no text)
+
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_no_text.png" width="200">
+
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_no_text.png" width="200">
+```
+
+### ALiCE Color (complementary)
+
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_complementario_1.png" width="200">
+
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_complementario_1.png" width="200">
+```
