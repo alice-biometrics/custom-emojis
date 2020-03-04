@@ -71,3 +71,12 @@ Use
 ```html
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_complementario_1.png" width="200">
 ```
+
+
+### ALiCE Header
+
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_header.png" width=auto>
+
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_header.png" width="200">
+```
