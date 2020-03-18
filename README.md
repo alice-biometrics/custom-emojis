@@ -46,6 +46,19 @@ Use
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/react-native.png" width="16">
 ```
 
+### docker <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/docker.png" width="16">
+
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/docker.png" width="16">
+```
+
+
+### rabbitmq <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/rabbitmq.png" width="16">
+
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/rabbitmq.png" width="16">
+```
+
 ## ALiCE 
 
 ### ALiCE Color
