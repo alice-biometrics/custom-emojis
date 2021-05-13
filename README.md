@@ -65,6 +65,9 @@ Use
 
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_icon.png" width="200">
 
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_icon.png" width="200">
+```
 
 ### ALiCE Color
 
