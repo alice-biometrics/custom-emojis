@@ -69,7 +69,7 @@ Use
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_icon.png" width="200">
 ```
 
-### ALiCE Color
+### Alice Color
 
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color.png" width="200">
 
@@ -77,7 +77,7 @@ Use
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color.png" width="200">
 ```
 
-### ALiCE Color (no text)
+### Alice Color (no text)
 
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_no_text.png" width="200">
 
@@ -85,7 +85,7 @@ Use
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_no_text.png" width="200">
 ```
 
-### ALiCE Color (complementary)
+### Alice Color (complementary)
 
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_color_complementario_1.png" width="200">
 
@@ -94,7 +94,7 @@ Use
 ```
 
 
-### ALiCE Header
+### Alice Header
 
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/alice_header.png" width=auto>
 
