@@ -59,6 +59,12 @@ Use
 <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/rabbitmq.png" width="16">
 ```
 
+### helm <img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/helm-icon-color.png" width="16">
+
+```html
+<img src="https://github.com/alice-biometrics/custom-emojis/blob/master/images/helm-icon-color.png" width="16">
+```
+
 ## Alice
 
 ### Alice Icon
